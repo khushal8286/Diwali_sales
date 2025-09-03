@@ -1,2 +1,4 @@
-# Diwali_sales
-Performed EDA on 11,000+ sales records using Pandas and NumPy, cleaning and transforming data for analysis. Built visual insights with Seaborn and Matplotlib, highlighting top buyers, regions, and product categories.
+# Python_Diwali_Sales_Analysis
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+
+## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
